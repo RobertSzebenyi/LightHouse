@@ -73,3 +73,17 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+Game/Saved/Logs/Game.log
+Game/Saved/Autosaves/PackageRestoreData.json
+Game/Saved/AutoScreenshot.png
+Game/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Game/Saved/Config/Windows/Engine.ini
+Game/Saved/Config/Windows/SourceControlSettings.ini
+Game/Saved/Config/Windows/UnrealInsightsSettings.ini
+Game/Saved/Config/CrashReportClient/*
+Game/Saved/Config/Windows/Engine.ini
+Game/Saved/Config/Windows/EditorPerProjectUserSettingss.ini
+Game/Saved/Config/Windows/Engine.ini
+Game/Saved/*
+Game/Intermediate/*.bin
+
