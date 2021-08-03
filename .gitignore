@@ -74,3 +74,10 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.log
 Game/Saved/Logs/Game.log
+Game/Intermediate/CachedAssetRegistry.bin
+Game/Saved/Autosaves/PackageRestoreData.json
+Game/Saved/AutoScreenshot.png
+Game/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Game/Saved/Config/Windows/Engine.ini
+Game/Saved/Config/Windows/SourceControlSettings.ini
+Game/Saved/Config/Windows/UnrealInsightsSettings.ini
