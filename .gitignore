@@ -74,7 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.log
 Game/Saved/Logs/Game.log
-Game/Intermediate/CachedAssetRegistry.bin
 Game/Saved/Autosaves/PackageRestoreData.json
 Game/Saved/AutoScreenshot.png
 Game/Saved/Config/Windows/EditorPerProjectUserSettings.ini
@@ -83,8 +82,8 @@ Game/Saved/Config/Windows/SourceControlSettings.ini
 Game/Saved/Config/Windows/UnrealInsightsSettings.ini
 Game/Saved/Config/CrashReportClient/*
 Game/Saved/Config/Windows/Engine.ini
-Game/Intermediate/CachedAssetRegistry.bin
-Game/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Game/Intermediate/CachedAssetRegistry.bin
+Game/Saved/Config/Windows/EditorPerProjectUserSettingss.ini
 Game/Saved/Config/Windows/Engine.ini
 Game/Saved/*
+Game/Intermediate/*.bin
+
