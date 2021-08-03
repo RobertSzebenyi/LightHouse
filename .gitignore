@@ -81,3 +81,10 @@ Game/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Game/Saved/Config/Windows/Engine.ini
 Game/Saved/Config/Windows/SourceControlSettings.ini
 Game/Saved/Config/Windows/UnrealInsightsSettings.ini
+Game/Saved/Config/CrashReportClient/*
+Game/Saved/Config/Windows/Engine.ini
+Game/Intermediate/CachedAssetRegistry.bin
+Game/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Game/Intermediate/CachedAssetRegistry.bin
+Game/Saved/Config/Windows/Engine.ini
+Game/Saved/*
